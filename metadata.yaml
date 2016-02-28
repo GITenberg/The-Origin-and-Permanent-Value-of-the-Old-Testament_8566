@@ -1,0 +1,25 @@
+_repo: The-Origin-and-Permanent-Value-of-the-Old-Testament_8566
+creator:
+  author:
+    agent_name: Kent, Charles Foster
+    birthdate: 1867
+    deathdate: 1925
+    gutenberg_agent_id: '2806'
+    url: http://www.gutenberg.org/2009/agents/2806
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Introductions'
+- !lcc 'BS'
+- !lcsh 'Bible. New Testament -- Criticism, interpretation, etc.'
+- !lcsh 'Bible. New Testament -- History'
+title: The Origin and Permanent Value of the Old Testament
+url: http://www.gutenberg.org/ebooks/8566
